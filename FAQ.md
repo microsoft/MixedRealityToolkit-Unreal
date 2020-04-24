@@ -8,7 +8,7 @@ MRTK-Unreal is not a single package. You can download and use each component in 
 
 ## Where can I learn more about Unreal / Mixed Reality / HoloLens 2 Development?
 
-Please take a look at our Documentation Links.
+Please take a look at the links in the [Further documentation](README.md/#further-documentation) section.
 
 ## What platforms and devices does MRTK-Unreal support?
 
@@ -18,7 +18,7 @@ Note that Unreal Engine does not support HoloLens 1 devices.
 
 ## What versions of Unreal Engine are supported
 
-You need UE 4.23.0 or later to develop for HoloLens 2, and UE.25.0 or later to use any component in MRTK-Unreal.
+UE 4.23.0 or later is needed to develop for HoloLens 2, and UE.25.0 or later to use any component in MRTK-Unreal.
 
 Please refer to the documentation for each [component](README.md#MRTK-Unreal-Components) for more specific details.
 
