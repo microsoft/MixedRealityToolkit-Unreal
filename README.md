@@ -1,14 +1,30 @@
+![Mixed Reality Toolkit](Documentation/Images/MRTK_Unreal_Badge_Rounded.png)
+# What is Mixed Reality Toolkit - Unreal?
 
-# Contributing
+The Mixed Reality Toolkit for Unreal (MRTK-Unreal) is a set of components, in the form of plugins, samples and documentation, designed to help development of Mixed Reality applications using the [Unreal Engine](https://www.unrealengine.com/).
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+In this repository you can find information about the current components of this toolkit. Please follow the relevant links in this page to access the code and documentation of each individual component.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+Currently the toolkit consists of the [UX Tools for Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal), providing code, blueprints and examples to implement UX features for Hololens 2 applications.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+We’d recommend taking a look at the [Frequently Asked Questions](FAQ.md) and the [Further documentation](#further-documentation) section.
+
+# MRTK-Unreal components
+
+| | |
+|:---:|:---|
+| [![](Documentation/Images/MRTK_Unreal_UXT_Icon.png)](https://github.com/microsoft/MixedReality-UXTools-Unreal) | [UX Tools for Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal) is a game plugin that provides the basic building blocks for developing UX in immersive applications. |
+
+## Other relevant modules
+
+All components in MRTK-Unreal depend on the following plugins:
+- The [HoloLens 2 engine plugin](https://docs.unrealengine.com/en-US/Platforms/AR/HoloLens2/index.html) (shipped with Unreal Engine) provides access to HoloLens 2 APIs and features.
+- The [Windows Mixed Reality engine plugin](https://docs.unrealengine.com/en-US/Platforms/VR/WMR/index.html) (shipped with Unreal Engine) provides access to Windows Mixed Reality APIs and features.
+
+
+# Further documentation
+
+- [Frequently Asked Questions](FAQ.md)
+- [Unreal HoloLens 2 documentation](https://docs.unrealengine.com/en-US/Platforms/AR/HoloLens2/index.html)
+- [Microsoft's HoloLens 2 and Mixed Reality documentation](https://docs.microsoft.com/Windows/mixed-reality)
+- [Microsoft's Unreal Engine documentation](https://docs.microsoft.com/en-us/Windows/mixed-reality/unreal-development-overview)
