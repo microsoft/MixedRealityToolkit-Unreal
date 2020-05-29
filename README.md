@@ -28,3 +28,4 @@ All components in MRTK-Unreal depend on the following plugins:
 - [Unreal HoloLens 2 documentation](https://docs.unrealengine.com/en-US/Platforms/AR/HoloLens2/index.html)
 - [Microsoft's HoloLens 2 and Mixed Reality documentation](https://docs.microsoft.com/Windows/mixed-reality)
 - [Microsoft's Unreal Engine documentation](https://docs.microsoft.com/en-us/Windows/mixed-reality/unreal-development-overview)
+- [Intro to Unreal + MRTK for HoloLens 2](https://channel9.msdn.com/Shows/Docs-Mixed-Reality/Intro-to-Unreal--MRTK-for-HoloLens-2) (Channel 9, May 2020)
