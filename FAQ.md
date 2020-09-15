@@ -37,4 +37,4 @@ Please refer to the contribution guidelines of each [component](README.md#MRTK-U
 Generally, we are not in a position to accept code contributions due to the early stage of the project and the likelihood of breaking changes and code conflicts arising with changes being developed internally by Microsoft and/or Epic.
 
 ## I’ve created some content using MRTK-Unreal, would you like to see it?
-We love to see what you’ve created! Please reach out to us on Twitter at **@MxdRealityDev** or use the **#mrtkUnreal** tag
+We love to see what you’ve created! Please reach out to us on Twitter at [**@MxdRealityDev**](https://twitter.com/MxdRealityDev) or use the [**#mrtkUnreal**](https://twitter.com/search?q=%23mrtkUnreal&src=typed_query) tag
