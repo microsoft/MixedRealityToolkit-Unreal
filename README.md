@@ -14,6 +14,7 @@ We’d recommend taking a look at the [Frequently Asked Questions](FAQ.md) and t
 | | |
 |:---:|:---|
 | [![](Documentation/Images/MRTK_Unreal_UXT_Icon.png)](https://github.com/microsoft/MixedReality-UXTools-Unreal) | [UX Tools for Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal) is a game plugin that provides the basic building blocks for developing UX in immersive applications. |
+| [![](Documentation/Images/MRTK_Unreal_GT_Icon.png)](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal) | [Graphics Tools for Unreal](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal) is a game plugin with code, blueprints, and example assets created to help improve the visual fidelity of Mixed Reality applications while staying within performance budgets. |
 
 ## Other relevant modules
 
