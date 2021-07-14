@@ -4,7 +4,7 @@
 
 ## Where can I download MRTK-Unreal?
 
-MRTK-Unreal is not a single package. You can download and use each component in MRTK-Unreal individually. The first component being made available is [UX Tools for Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal).
+MRTK-Unreal is not a single package. You can download and use each component in MRTK-Unreal individually. The first component being made available is [UX Tools for Unreal](https://github.com/microsoft/MixedReality-UXTools-Unreal) and the second is [Graphics Tools for Unreal](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal).
 
 ## Where can I learn more about Unreal / Mixed Reality / HoloLens 2 Development?
 
