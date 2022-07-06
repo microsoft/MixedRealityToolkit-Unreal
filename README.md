@@ -17,7 +17,7 @@ We’d recommend taking a look at the [Frequently Asked Questions](FAQ.md) and t
 ## Other relevant modules
 
 All components in MRTK-Unreal depend on the following plugins:
-- The [HoloLens 2 engine plugin](https://docs.unrealengine.com/en-US/Platforms/AR/HoloLens2/index.html) (shipped with Unreal Engine) provides access to HoloLens 2 APIs and features.
+- The [HoloLens 2 engine plugin](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unreal/unreal-quickstart#enabling-required-plugins) (shipped with Unreal Engine) provides access to HoloLens 2 APIs and features.
 - The [Windows Mixed Reality engine plugin](https://docs.unrealengine.com/en-US/Platforms/VR/WMR/index.html) (shipped with Unreal Engine) provides access to Windows Mixed Reality APIs and features, or the [Microsoft OpenXR plugin](https://github.com/microsoft/Microsoft-OpenXR-Unreal) (shipped on the Unreal Marketplace) which provides some additional functionality specific to Microsoft's Mixed Reality platforms.
 
 
